@@ -1,0 +1,296 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>English Cretes and atheistical Christians describ'd and instanced with directions for the reformation of all, from St. Paul's Epistle to Titus, the first Bishop of Crete : wherein is intimated the sacred order, and supreme power of episcopacy in the church, with the inferior ministry : concluding all with supplemental instances, and a lamentation of the churches present miseries.</title>
+            <author>T. W.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 40 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A65331</idno>
+            <idno type="STC">Wing W117</idno>
+            <idno type="STC">ESTC R31986</idno>
+            <idno type="EEBO-CITATION">12292553</idno>
+            <idno type="OCLC">ocm 12292553</idno>
+            <idno type="VID">58924</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A65331)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 58924)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1515:29)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>English Cretes and atheistical Christians describ'd and instanced with directions for the reformation of all, from St. Paul's Epistle to Titus, the first Bishop of Crete : wherein is intimated the sacred order, and supreme power of episcopacy in the church, with the inferior ministry : concluding all with supplemental instances, and a lamentation of the churches present miseries.</title>
+                  <author>T. W.</author>
+               </titleStmt>
+               <extent>[2], 30 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Jos. Hindmarsh ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1695.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"The epistle dedicatory" signed: T.W.</note>
+                  <note>Reproduction of original in the Trinity College Library, Cambridge University.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Hypocrisy.</term>
+               <term>Christianity and atheism.</term>
+               <term>Christian life.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-05</date>
+            <label>Amanda Flynn</label>Sampled and proofread</change>
+         <change>
+            <date>2012-05</date>
+            <label>Amanda Flynn</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:58924:1"/>
+            <pb facs="tcp:58924:1" rendition="simple:additions"/>
+            <p>
+               <hi>ENGLISH CRETES,</hi> AND Atheiſtical CHRISTIANS DESCRIB'D and INSTANCED: WITH Directions for the Reformation of all; FROM <hi>St.</hi> PAUL'S Epiſtle to TITUS, the firſt Biſhop of <hi>CRETE.</hi> Wherein is Intimated the Sacred Order, and Supreme Power of Epiſcopacy in the CHURCH, with the Inferior Miniſtry. Concluding all With Supplemental Inſtances; AND A <hi>Lamentation of the Churches preſent Miſeries.</hi>
+            </p>
+            <q>Follow peace with all men, and holineſs, without which no man ſhall ſee the Lord. <bibl>
+                  <hi>Heb. xii. 14.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Joſ. Hindmarſh,</hi> at the <hi>Golden Ball</hi> over againſt the <hi>Royal Exchange</hi> in <hi>Cornhil.</hi> 1695.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:58924:2"/>
+            <pb facs="tcp:58924:2"/>
+            <head>THE EPISTLE DEDICATORY; OR A LETTER TO AN <hi>Honourable Member of</hi> PARLIAMENT<g ref="char:punc">▪</g> TO THE Honourable Sir <hi>W. T.</hi> Bar.</head>
+            <opener>
+               <salute>Ever honoured Sir,</salute>
+            </opener>
+            <p>MAY I preſume to lay this at your feet, with an humble congratulation of your late honourable unſought for Election at too ſuch diſtant Places, paying you that meritorious eſteem and regard, which the best of our Gentry, and Regular Clergy unanimouſly bear you in that County, whereto you are ſo great an Honor,
+<pb facs="tcp:58924:3"/> and ever will be, in deſpight of Ignorance, Malice, Ill-Nature, Self-Intereſt, and Faction; however ſhame<g ref="char:EOLhyphen"/>fully dividing us, <hi>&amp;c.</hi> Your Orthodox Piety, admirable Parts and Learning; your unbounded Charity, Meek<g ref="char:EOLhyphen"/>neſs, Candour, and unbiaſs'd Judgment and Integrity, which has no Intereſt to ſerve but the Publick-Good, <hi>&amp;c.</hi> We can't but declare, as we love and value: this was conſpicuous to the Nation, while you were formerly our truly honourable Repreſentative with general applauſe: and will be now again. Therefore your utmoſt Service for our true Epiſcopal Church (whoſe Zealous, Learned, Champion your renowned Father was, likewiſe) and Clergy, we doubt not of. May all honeſt tender Conſci<g ref="char:EOLhyphen"/>ences be Tolerated, and Sufferers duly reliev'd: may Prophaneſs, Atheiſm, and all manner of Licentiouſneſs (ſo ſcandalous in, and dangerous to a Chriſtian State) be ſeverely ſuppreſs'd. May Sacrilege be ſhun'd by all, and (according to the Pious and Learned Sir <hi>Henry Spellman</hi> in particular) may the Church's Divine Rights be well conſider'd; or at leaſt the Caſe of poor Vicarages be juſtly and charitably Redreſs'd, and ſecur'd from the baſe encroachments, and oppreſſions of Hypocriſie, Pride, and Avarice inſatiable, <hi>&amp;c.</hi> Or finally, were theſe things in ſuch worthy Hands as yours: and would all Live, and Act like you, for the Glory of God, and his Church: then might be compleated the juſt Wiſhes of</p>
+            <closer>
+               <signed>Your ever oblig'd humble Servant, <hi>T.W.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="dedication_to_God">
+            <pb n="3" facs="tcp:58924:3"/>
+            <head>DEO TRIUNO, Aeterno, Incomprehenſibili, Omni<g ref="char:EOLhyphen"/>potenti, Omniſcienti, Omnipre<g ref="char:EOLhyphen"/>ſenti, Infinito Juſtitiâ, Miſerecor<g ref="char:EOLhyphen"/>diâ, <hi>&amp;c.</hi> Super &amp; in omnibus Gloria.</head>
+            <lg>
+               <l>COnverſionem Mundo;</l>
+               <l>Pacem Eccleſiae;</l>
+               <l>Fidem Principibus &amp; regnis,</l>
+               <l>Tranquilitatem Angliae.</l>
+               <l>Salutem Benefactoribus,</l>
+               <l>Poenitentiam Inimicis,</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Sincerè Vivet &amp; Optat,</hi>
+               </l>
+               <l>
+                  <hi>Humillimus &amp; indigniſſimus Servus, gaudens &amp; ſolummodo confidens in Jeſu Chriſto ipſoque Crucifixo.</hi>
+               </l>
+            </lg>
+            <closer>
+               <signed>T. W.</signed>
+            </closer>
+         </div>
+         <div type="Psalm">
+            <pb n="4" facs="tcp:58924:4"/>
+            <head>Pſal. lxxxii. Out of <hi>Patrick</hi>'s Metre.</head>
+            <l>THE Rulers of the world, that bear</l>
+            <l>God's name, and repreſent him here,</l>
+            <l>Know that this Judge among you ſits.</l>
+            <l>If you enact unrighteous Laws,</l>
+            <l>Or Countenance a wicked Cauſe,</l>
+            <l>Your guiltineſs no plea admits.</l>
+            <l>You act like God, when you defend</l>
+            <l>The Poor, and your aſſiſtance lend</l>
+            <l>To helpleſs men, that Juſtice crave.</l>
+            <l>Abſolve the Innocent with ſpeed,</l>
+            <l>Obnoxious only by their need,</l>
+            <l>And from th' Oppreſſors power ſave.</l>
+            <l>They cry too oft to you in vain,</l>
+            <l>Who'll know no other right but gain,</l>
+            <l>Whoſe Eyes are blind by Bribes you take.</l>
+            <l>Thus Juſtice cannot find its courſe,</l>
+            <l>But Laws neglected loſe their force,</l>
+            <l>And all the Land's Foundations ſhake.</l>
+            <l>I ſaid y'are Gods, but you ſhall dye,</l>
+            <l>And fall, tho ſons of the moſt High,</l>
+            <l>As other men, and King's have done.</l>
+            <l>Ariſe Great Judge of all, and Reign,</l>
+            <l>Fal'n Juſtice then will riſe again,</l>
+            <l>When God doth ſit upon his Throne.</l>
+         </div>
+      </front>
+      <body>
+         <div type="tract">
+            <pb n="5" facs="tcp:58924:4"/>
+            <head>
+               <hi>ENGLISH CRETES,</hi> AND Atheiſtical Chriſtians deſcribed, <hi>&amp;c.</hi>
+            </head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>TIT. i. 16.</hi>
+                  </bibl>
+                  <p>They profeſs that they know God; but in works they deny him, being abominable, and diſobedient, and unto every good work reprobate, or void of judgment. <hi>As it is in the Margin.</hi>
+                  </p>
+               </q>
+            </epigraph>
+            <p>
+               <hi>SAint</hi> Paul <hi>a Servant of God, and an Apoſtle of Jeſus Chriſt, according to the Faith and Truth,</hi> &amp;c. ver. 1. having ordain'd <hi>Titus</hi> the firſt Biſhop of the Church of the <hi>Cretians;</hi> as he did <hi>Timothy</hi> of the <hi>Epheſians:</hi> he begins here to ſhew him, in a very ſolemn and bleſſed Stile, for what end he thus left him in <hi>Crete,</hi> ver. 6. As particularly
+<pb n="6" facs="tcp:58924:5"/> to Ordain and Settle the inferior Miniſtry; the due qualifications whereof he next declares, ver. 6. and then proceeds to ſet forth the life of a good Biſhop: manifeſting the neceſſity of their Faith<g ref="char:EOLhyphen"/>fulneſs, Ability, and Zeal, becauſe of Deceivers, and that the mouths of thoſe evil corrupt Teachers (who crept in Houſes, and ſwarm'd about the Church) might be ſtopped, to ver. 12. Then he gives him ſome deſcription of the people whom he was ſet over, with admonitions concerning them, <hi>&amp;c.</hi> Now theſe let us briefly conſider with parallel Inſtances of the great Numbers of pretended falſe Chriſtians among us, and the directions here for their reformation: concluding with an earneſt recommendation of all the Duties laid down in this Epiſtle, as now requir'd indiſpenſibly both of Mi<g ref="char:EOLhyphen"/>niſters and People.</p>
+            <p>Firſt then, The Apoſtle begins his deſcription of theſe <hi>Cretians</hi> with an irrefragible teſtimony of one of their own Poets, ver. 12. one of themſelves; even a Prophet of their own ſaid, the <hi>Cretians</hi> are always Liars, evil Beaſts, ſlow-bellies. (<hi>i. e.</hi> de<g ref="char:EOLhyphen"/>ceitful, falſe, ſenſual, carnal, and earthly-minded) which is plain enough, howſoever Poetical: and as St. <hi>Paul</hi> affirms in the next verſe this Witneſs is true; whence neceſſarily follows his admonition, wherefore rebuke them ſharply, that they may be
+<pb n="7" facs="tcp:58924:5"/> ſound in the Faith; not giving heed to <hi>Jewiſh</hi> Fa<g ref="char:EOLhyphen"/>bles, and Commandments of men that turn from the Truth. This beaſtlineſs, or impurity of their lives (notwithſtanding their Converſion to Chri<g ref="char:EOLhyphen"/>ſtianity) polluted and corrupted their Profeſſion of the pureſt Religion, which none but the pure can rightly underſtand and practice: and ſo continu'd them ſinful Brutes, and guilty Infidels ſtill. For as it follows, ver. 15. <hi>Unto the Pure all things are Pure, but unto them that are defiled and unbelieving is nothing Pure; but even their Mind and Conſci<g ref="char:EOLhyphen"/>ence is defiled:</hi> well therefore might there be ſo many Hereticks, Seducers, and Hypocrites among ſuch filthy Pretenders; yea and Atheiſts too, or worſe: for ſo are they, who profeſs (as St. <hi>Paul</hi> here concludes their Character) <hi>That they know God; but in Works they deny him, being abo<g ref="char:EOLhyphen"/>minable, diſobedient,</hi> &amp;c. Theſe are call'd Pra<g ref="char:EOLhyphen"/>ctical Atheiſts, and are thus far worſe than the Speculative, in that they act contrary to their de<g ref="char:EOLhyphen"/>clar'd Principles; their Lives run contrary to their Creed: O they do the greater diſhonor to Almighty God. Now every cuſtomary habitual Sinner par<g ref="char:EOLhyphen"/>ticularly is ſuch; and ſuch are the common Pro<g ref="char:EOLhyphen"/>phane, Unjuſt, Vitious, and Uncharitable Wretches of this vileſt Age, who fill our Church and Na<g ref="char:EOLhyphen"/>tion. Theſe unreformed Sinners who make up
+<pb n="8" facs="tcp:58924:6"/> the generality of our People of all Ranks and De<g ref="char:EOLhyphen"/>grees, are the <hi>Engliſh Cretians,</hi> and the <hi>Atheiſtical Chriſtians:</hi> whoſe Lives and Converſations prove their ignorance and denyal of God, and of all true Religion; whatſoever their Faith or Profeſſion may be: as will be manifeſt from a brief diſcuſſion of theſe Words with deductions of ſome few In<g ref="char:EOLhyphen"/>ſtances: They profeſs that they know God. Now to know God, is to underſtand as much as Nature, Reaſon, and Revelation diſcover to us of his Be<g ref="char:EOLhyphen"/>ing, or his Perfections and Attributes included therein; and of that Worſhip and Service due to him from us his Creatures, which we call Reli<g ref="char:EOLhyphen"/>gion in general. Thus far as men ought we to know God; but much more as Chriſtians muſt we know him to be, not only our Creator, Preſer<g ref="char:EOLhyphen"/>ver, <hi>&amp;c.</hi> but our great Lord and Judge, our mer<g ref="char:EOLhyphen"/>ciful Redeemer, Saviour, and Sanctifier too, as well as Lawgiver, in his only begotten eternal Son, and Holy Spirit. Yea, further muſt we thus draw near or come unto God that we may pleaſe him, and in order thereunto we muſt believe that he is, and that he is a rewarder of them that diligently ſeek him, <hi>Heb.</hi> xi. 7. And then moreover, we muſt obey his Laws, live up to his Goſpel of Grace and Salvation, which is our Chriſtian Pro<g ref="char:EOLhyphen"/>feſſion; if we would truly and rightly know him.
+<pb n="9" facs="tcp:58924:6"/> Then, and not till then, we may well profeſs that we know God: ſince hereby alone we ſhall know our ſelves that we know him, if we keep his Com<g ref="char:EOLhyphen"/>mandments. Herein ſhall we be fully ſatisfi'd, when we thus endeavour to love, adore, and imitate his infinite Perfections as his Laws direct; thus to renew his Image upon our ſouls, and re<g ref="char:EOLhyphen"/>ſemble him as far as we can to our own ſole happi<g ref="char:EOLhyphen"/>neſs; purifying, following, and uniting our minds to the Divine. <hi>For whoſo keepeth his word, in him verily is the love of God perfected; yea, hereby know we that we are in him; ſo he that profeſſeth to know him, or ſaith, he abideth in him, ought himſelf alſo ſo to walk, even as he walked. But he that ſaith I know him, and keepeth not his Commandments is a lyar, and the truth is in him.</hi> 1 Joh. ii. 3, 4, 5, 6. But in Works they deny him, being abominable, and diſobedi<g ref="char:EOLhyphen"/>ent, and unto every good Work reprobate: So to deny God in our Works, is to allow our ſelves in any known wilful ſin, that is hateful and diſhonourable to his Nature, and tranſgreſſing his moſt Holy, Juſt, and Good Laws. To continue in any wicked Cuſtoms, ſinful Habit, or any evil Courſe of Life without timely Repentance and Amendment: to have hereby ſeared Conſciences, hardned Hearts, and ſtupify'd Wills, reprobate Minds, and corrupt Judgments; ever prone to im<g ref="char:EOLhyphen"/>piety,
+<pb n="10" facs="tcp:58924:7"/> backward and unwilling to do good; per<g ref="char:EOLhyphen"/>verſe and ſtubborn in acts of iniquity, following the bent and inclination of our vile Luſts and Af<g ref="char:EOLhyphen"/>fections, and ſo eaſily yielding to the Devil's ſug<g ref="char:EOLhyphen"/>geſtions, and the World's deluding Charms and Allurements; thus frequently and notoriouſly Re<g ref="char:EOLhyphen"/>belling againſt God: to ſlight God's ſacred Mini<g ref="char:EOLhyphen"/>ſtry, reſiſt the good motions of his Holy Spirit, diſregard the moſt pious Inſtructions; and neglect the means of Grace and Salvation ordain'd in Chriſt's Church Militant here upon Earth. Thus do the many pretended Profeſſors of a Deity, and Vaunting Worſhippers, and Religioniſts deny God, and all; by their common, inconſiderate, fooliſh doings, by their deviliſh, ſenſual, earthly living, by their ſecret ſins, and avowed Crimes ſo odious in God's all-pure Eyes, and nauſeous to every good Soul. Hence they form ſuch Notions of the Divinity, and favour ſuch Doctrines, and Interpretations of Scripture (which they read to their own deſtruſtion) as might raiſe their defile<g ref="char:EOLhyphen"/>ments in Mind and Conſcience; and pleaſe their Corruptions moſt: thus would they make God like one of themſelves, have his ways as their ways; or elſe they ſeem to ſet up the vile Deities of the Heathens, to profeſs only by their Deeds a a cruel <hi>Saturn,</hi> a wanton <hi>Jupiter,</hi> a thieviſh <hi>Mer<g ref="char:EOLhyphen"/>cury,</hi>
+               <pb n="11" facs="tcp:58924:7"/> and a drunken <hi>Bacchus:</hi> or with the groſſeſt Idolaters in <hi>Egypt</hi> to Worſhip Leeks and Onions, and make their Bellies their Gods. What leſs do our Self-Contradictors, inconſiſtent, ridiculous Profeſſors manifeſt? Do not their Actions belye their Mouths? And are they not thus far worſe than the very Ethnicks, or Atheiſts, denying the only true God, whom yet they affirm to own, <hi>&amp;c.</hi> As for inſtance, to expoſtulate this Caſe with all Rational People, and Chriſtians: let us conſider in the general, that thoſe who live and act con<g ref="char:EOLhyphen"/>trary to the Divine Perfections, and Laws, do ſo far deny the ſame: and ſuch, who deny God's Attributes, which are eſſential to his Being, do thus deny God. So in particular, this conſider, firſt in relation to his Holineſs, Purity, and Good<g ref="char:EOLhyphen"/>neſs in the Abſtract: does not all manner of Irre<g ref="char:EOLhyphen"/>ligion and Prophaneſs plainly contradict the moſt Holy Being? Is not every unclean Thought and Deſire, every filthy Diſcourſe, and luſtful beaſt<g ref="char:EOLhyphen"/>ly Action diametrically oppoſite to God's all-pure Nature? And is not all manner of ill-nature, and evil-doing abſolutely contrary to the moſt lovely Eſſence, to Goodneſs it ſelf? If ſo, what are the common, falſe Swearers, and all the guilty takers of God's moſt holy Name in vain? What are the Contemners, Neglecters, and Prophaners
+<pb n="12" facs="tcp:58924:8"/> of his holy Word, and Miniſtry; of his Sacra<g ref="char:EOLhyphen"/>ments, and other Ordinances; of his true Church, and moſt pure Religion? What are the Sacrilegi<g ref="char:EOLhyphen"/>ous Robbers of Churches, Robbers of God in Tythes and Offerings, greedy encroachers upon the Paſtors Divine Rights, and bold Invaders of holy Church's Patrimony; the proud Deſpiſers of holy Perſons, and domineering Violaters of things Sacred, thus bringing a Curſe upon the whole Nation? If ſo, what are the Fornicators, Whore<g ref="char:EOLhyphen"/>mongers; the Adulterers, and Adultereſſes; the Brutes, and Sodomites; what are the laſcivious vile obſcene Wretches, the carnal and earthly minded Herds of Animals? In ſhort, what are the ſelfiſh Unrighteous, the wicked vicious ungod<g ref="char:EOLhyphen"/>ly ſinful Livers? If ſo, what are any ſuch better than Atheiſts? Yea, are not they rather worſe, and dot they more ſhamfully deny, by theſe abo<g ref="char:EOLhyphen"/>minable Courſes, that moſt holy pure and good God, whom yet they profeſs to know.</p>
+            <p>So ſecondly, Conſider this Point in reference to God's Juſtice, Mercy, and Truth:</p>
+            <p>Can any thing more directly affront the Juſt and Righteous Judge of all the World; than Ra<g ref="char:EOLhyphen"/>pine, Violence, and Oppreſſion; than Fraud, Knavery, with all ſorts of Diſhoneſty, and Un<g ref="char:EOLhyphen"/>righteous Dealing?</p>
+            <pb n="13" facs="tcp:58924:8"/>
+            <p>What can bid defiance more to our moſt grati<g ref="char:EOLhyphen"/>ous long ſuffering compaſſionate heavenly Father; than Cruelty, Tyranny, and barbarous Uſage; than Malice, Envy, dire Revenge, Hatred, and all manner of Uncharitableneſs? Can any thing more impudently contradict the only Wiſe and True God; him, who is Truth it ſelf: than Falſhood, Diſſimulation, Perjury, Scepticiſm, Infidelity; than Diffidence, Deceit, Lying, with all kind of Guile and Hypocriſy?</p>
+            <p>So thirdly, In relation to God's infinite Wiſ<g ref="char:EOLhyphen"/>dom, and Power; or his Omnipotence, Omni<g ref="char:EOLhyphen"/>ſcience, and Omnipreſence: how bold Preſum<g ref="char:EOLhyphen"/>ption on the one Hand, and ſlaviſh Deſpair on the other, or diſtruſt of Providence; with crafty De<g ref="char:EOLhyphen"/>ſigns, and ſecret Sinning, <hi>&amp;c.</hi> does call theſe a<g ref="char:EOLhyphen"/>dorable Attributes into queſtion? Will not humane Strength and Policy, carnal or worldly Wiſdom bend and ſubmit hereto? Shall not all Pride, Ar<g ref="char:EOLhyphen"/>rogance, Ambition, Avarice, Intemperance and Senſuality tremble hereat? Upon theſe Conſidera<g ref="char:EOLhyphen"/>tions then, are not all Cheats, Knaves, and Ly<g ref="char:EOLhyphen"/>ars; all Robbers, Thieves, and Murderers; all Tyrants, Uſurpers, and devouring Oppreſſors: Are not all ſpiteful haughty Conceits, all per<g ref="char:EOLhyphen"/>verſe Self-Lovers; all blood-thirſty encroaching Villains; all ſorts of Unbelievers and Hypocrites;
+<pb n="14" facs="tcp:58924:9"/> all evil Contriving, Crafty, Sly or Clandeſtine Sinners; all Debauchees, Gluttons, Drunkards, proud Boaſters; with all Covetous Perſons, who are Idolaters, and whom particularly God ab<g ref="char:EOLhyphen"/>horeth:</p>
+            <p>Are not all theſe, I ſay, with the others before<g ref="char:EOLhyphen"/>mentioned, ſuch abominable, diſobedient, and evil reprobate Wretches; by leading ſuch wicked Lives, ſo contrary to the whole Divine Nature, and to all True Religion; while they profeſs to know God, <hi>&amp;c.</hi> That they thus plainly deny their God and Saviour; and commence the worſt of Infidels, and Atheiſts: whatſoever Faith, or Knowledge they may pretend to? Now the like Inſtances may be made in reference to all the Sublime Truths, and Injunctions of the Goſpel, or all the Duties of Chriſtianity; from which the generality of its Profeſſors ſo groſly vary; and wherein ſo many do deceive, and are deceived: but theſe may be reſerv'd for another Seaſon; and what has been ſaid, may ſuffice at preſent for de<g ref="char:EOLhyphen"/>monſtration of the matter in hand.</p>
+            <p>So we ſhall now proceed to the Apoſtles dire<g ref="char:EOLhyphen"/>ctions for the Reformation of all: and eſpecially for the management of thoſe falſe Teachers, Scepticks, and Seducers, whom he chiefly aims at, and deſcribes here, <hi>ver.</hi> 10. and this he lays upon
+<pb n="15" facs="tcp:58924:9"/> his Biſhop, particularly to convince ſuch, <hi>ver.</hi> 9. Including withal the Offices of the inferior Mini<g ref="char:EOLhyphen"/>ſtry: as I noted in the beginning of this Diſcourſe, and may regularly proceed upon: having hitherto only cleared the Text at firſt propoſed.</p>
+            <p>In all this Epiſtle it is evident, ſays a Divine Preacher, that St. <hi>Paul</hi> looks upon <hi>Titus</hi> as ad<g ref="char:EOLhyphen"/>vanc'd to the Dignity of a Prime Ruler of the Church, and entruſted with a large Dioceſs, con<g ref="char:EOLhyphen"/>taining many particular Cities under the imme<g ref="char:EOLhyphen"/>diate Government of their reſpective Elders; and thoſe deriving Authority from his Ordination, as was ſpecified in <hi>ver.</hi> 5. And now looking upon <hi>Titus</hi> under this qualification, he addreſſes a long Advice and Inſtruction to him, for the diſcharge of ſo important a Function: it being the peculiar Office of every Biſhop within his own Juriſdicti<g ref="char:EOLhyphen"/>on, by Prayer, and Impoſition of Hands, (as the Apoſtles did) to order and ſeperate Men for the Offices of Deacon, and Elder, <hi>i. e.</hi> Presbyter or Prieſt in the Church of Chriſt: and in like man<g ref="char:EOLhyphen"/>ner to Confirm all whom the Inferior Miniſters ad<g ref="char:EOLhyphen"/>mit Members of, or receive into the Church-Com<g ref="char:EOLhyphen"/>munion by that initiating Sacrament of Baptiſm, as our Saviour poſitively Commiſſioned all his Ambaſſadors, Stewards, or Miniſters of his Goſpel upon Diſcipling the World: <hi>Mat.</hi> xxviii. 19, 20.
+<pb n="16" facs="tcp:58924:10"/> And as <hi>Philip</hi> the Deacon Baptized the <hi>Samaritans,</hi> and then came the great Apoſtles, <hi>Peter</hi> and <hi>John,</hi> down from <hi>Jeruſalem,</hi> to Confirm them with Prayer and Impoſition of Hands, <hi>Act.</hi> viii. And as our Biſhops, the Prime Succeſſors of the Apoſtles, after our Infant-Baptiſm, and Pious Education upon the Promiſes and Solemn Vows, and care of fit Sponſors, <hi>&amp;c.</hi> (as our Church moſt Charitably directs) have accordingly practiſed from the very Primitive times: which may ſufficiently eaſe and ſatisfie all Sureties, <hi>&amp;c.</hi> both in their Duty, and diſcharge of their Truſt: and ſo might equally con<g ref="char:EOLhyphen"/>vince our <hi>Antipedobaptiſts,</hi> and all other Gainſayers to the Laudable Antient Apoſtolical Orders of Infant-Baptiſm, Confirmation, <hi>&amp;c.</hi> Which, with our whole excellent Conſtitution, let us all duly and reſpectively obſerve, under our Sacred Goſpel-Miniſtry, as true ſound Members of the beſt Eſta<g ref="char:EOLhyphen"/>bliſhed Church in the World: with particular Re<g ref="char:EOLhyphen"/>verence of the higheſt Order of Epiſcopacy, our Spiritual Hierarchy, whereto alone it belongs to Govern and Preſide over the whole Eccleſiaſtical Body. There is no one thing (ſays a learned Writer) more clear and evident in the Chriſtian Religion, than that our Saviour inveſted the whole Apoſtolical Order (not in St. <hi>Peter</hi> only, but all the Apoſtles) with a Supremacy of Power over
+<pb n="17" facs="tcp:58924:10"/> his Church; and that they in purſuance of this his Divine Inſtitution ordained Biſhops to ſucceed them in their Supremacy of Power through all follow<g ref="char:EOLhyphen"/>ing Ages. That the Apoſtles were Superior to all other Officers in the Church, is out of queſti<g ref="char:EOLhyphen"/>on, and granted on all Hands: and that the Bi<g ref="char:EOLhyphen"/>ſhops ſucceeded them, is as unqueſtionable from all the cleareſt Records of Antiquity; their Suc<g ref="char:EOLhyphen"/>ceſſion, eſpecially in the moſt famous Churches, being deriv'd by the moſt Antient Writers from the Apoſtles themſelves, and was as eaſily and certainly know to thoſe Men that have tranſmitted it to us, as any learned Man may know the Succeſſion of the Archbiſhops of <hi>Canterbury</hi> from the Reign of Queen <hi>Elizabeth</hi> to this time. And alſo 'tis evident, that they modell'd the firſt Settlement of Churches according to the then preſent State of the <hi>Roman</hi> Empire. But as this Power was at firſt given to the A<g ref="char:EOLhyphen"/>poſtles, ſo was it equally divided among them; ſo that every one exercis'd Supreme Power with<g ref="char:EOLhyphen"/>in the Bounds of his own Juriſdiction, and all together in the Catholick Church: or as St. <hi>Cyprian</hi> ſtates it, <hi>Epiſt.</hi> 52. that as there was but one Church Founded by Chriſt throughout all the World, but this Church was made up of ſeveral diſtinct Members; ſo there was but one Epiſcopacy, and that conſiſts in the agreement, and unanimous
+<pb n="18" facs="tcp:58924:11"/> care of all Chriſtian Biſhops: ſo that the whole Body of the Church was govern'd by the whole Body of the Apoſtles, and their Succeſſors; but the ſeveral parts of it were allotted to the Charge of ſingle Biſhops, who govern'd them with par<g ref="char:EOLhyphen"/>ticular care, but ſo as to have regard to the Peace and Unity of the whole.</p>
+            <p>This is the only Notion (ſays my Author) that this wiſe and good Man (than whom there is not a more eminent example for both upon Record) ſeems in all his Writings to have had of the Ca<g ref="char:EOLhyphen"/>tholick Church; and ſo this he improves to the utter Confutation of the Pope's Supremacy; and likewiſe of all our Diſſenters confuſed wild pre<g ref="char:EOLhyphen"/>tences: reſembling the Popiſh Legends, Superſti<g ref="char:EOLhyphen"/>tions, <hi>&amp;c.</hi> 
+               <q rend="inline">All whoſe preſumptuous, covetous, Teaching, creeping into Houſes, leading Captive ſilly Women, deluding ſinful weak Souls, <bibl>2 <hi>Tim.</hi> iii. 6.</bibl>
+               </q> with all their deceitful, hypocritical, or in<g ref="char:EOLhyphen"/>ſulting, rigid, greedy, devouring ways, ought to undergo ſuch Epiſcopal Judgment and Rebuke, and be ſo ſilenced, <hi>&amp;c.</hi> as theſe Sceptical lying <hi>Cretes,</hi> and avaritious <hi>Jewiſh</hi> Deceivers; whom the great Apoſtle here warns their proper Biſhop of, that he may proceed againſt them ſharply: or as himſelf judged too obſtinate Sinners, or Here<g ref="char:EOLhyphen"/>ticks and Schiſmaticks, (as he did the inceſtuous
+<pb n="19" facs="tcp:58924:11"/> perſon before, 1 <hi>Cor.</hi> v.) wicked <hi>Hymeneus,</hi> and <hi>Alexander,</hi> whom he deliver'd unto <hi>Satan,</hi> that they may learn not to blaſpheme. 1 <hi>Tim.</hi> i. 20. This is the very power of true Excommunication, which with Abſolution, call'd the power of the Keyes, our Saviour delegated immediately to the Supreme Governors of his Church. <hi>Matth.</hi> xvi. 18, 19. <hi>John</hi> xx. 21, 22, 23. And thus was <hi>Titus</hi> to manage the Stubborn, and Heretical within his Dioceſe; Chap. iii. 10, 11. <q rend="inline">A Man that is an He<g ref="char:EOLhyphen"/>retick, after the firſt and ſecond Admonition, re<g ref="char:EOLhyphen"/>ject: knowing, that he that is ſuch, is ſubverted, and ſinneth, being condemned of himſelf.</q> Yet theſe our Rulers muſt eſpecially avoid all Pride, Ambition, Tyranny, Idleneſs, Corruption, and Covetouſneſs, with all Vice, Paſſion, or Self<g ref="char:EOLhyphen"/>iſhneſs: wherewith the Princes of the World, and Civil Magiſtrates too often exerciſe Authority, and Dominion: but we muſt all diſchage our Sa<g ref="char:EOLhyphen"/>cred Function, and do all things with the greateſt humility, and in the true Goſpel Spirit of Meek<g ref="char:EOLhyphen"/>neſs and Charity, ſtrictly imitating our bleſſed Sa<g ref="char:EOLhyphen"/>viour, and giving good Example to all others. <hi>Matth.</hi> xx. 25, 26, 27, 28. 1 <hi>Pet.</hi> v. 1, 2, 3, 4. <q rend="inline">And now thus muſt the Younger obey their El<g ref="char:EOLhyphen"/>ders, <hi>&amp;c.</hi> ver. 5. who may thus rebuke with all, with the higheſt, <hi>i. e.</hi> Divine Authority; and let
+<pb n="20" facs="tcp:58924:12"/> no Man deſpiſe them;</q> as St. <hi>Paul</hi> here ſums up the Epiſcopal Office to <hi>Titus,</hi> Chap. ii. 15. which is the firſt direction for the Reformation of all: <q rend="inline">and particularly, for the ſuppreſſion of the many unruly and vain Talkers, and Deceivers, urging the Commandments of Men that turn from the Truth, legendary Fablers, <hi>&amp;c.</hi> Like the bigotted <hi>Jews:</hi> whoſe Mouths muſt be ſtopped, who ſub<g ref="char:EOLhyphen"/>vert whole Houſes, Teaching things which they ought not, for filthy Lucre's ſake. Who (with the reſt before teſtified of, and deſcribed:) muſt therefore be rebuked ſharply, that they may be ſound in the Faith, and become pure and unde<g ref="char:EOLhyphen"/>filed, Chap. i. 10, 11, 12, 13, 14, 15.</q> 
+               <hi>That none may give heed to fables; nor regard needleſs controverſies, or any jarring diſputes: but avoid fooliſh queſtions, and genealogies, and contentions, and ſtri<g ref="char:EOLhyphen"/>vings about the law: for they are unprofitable and vain,</hi> Chap. iii. 9. Thus comes in the next Directions, which all ſhould conſtantly obſerve, and ſo dili<g ref="char:EOLhyphen"/>gently mind and practice the ſound, grave, un<g ref="char:EOLhyphen"/>corrupt, ſincere Doctrine, which they are dayly Taught under the true Goſpel-Miniſtry in our ex<g ref="char:EOLhyphen"/>cellent Communion. <hi>Then would aged men be ſo<g ref="char:EOLhyphen"/>ber, grave, temperate, ſound in faith, in charity, in patience. And the aged women likewiſe would be in be<g ref="char:EOLhyphen"/>haviour as becometh holineſs, not falſe accuſers, (not
+<pb n="21" facs="tcp:58924:12"/> lyars, or ſlanderers:) Not given to much wine, teachers of good things: teaching the young women to be ſober, to love their husbands, to love their children, to be diſcreet, chaſt, keepers at home, good, obedient to their own husbands, that the word of God be not blaſphemed. Then would young men likewiſe be ex<g ref="char:EOLhyphen"/>horted to be ſober-minded</hi> Chap. ii. 2, 3, 4, 5, 6. <hi>Then would ſervants too, be obedient to their own ma<g ref="char:EOLhyphen"/>ſters, and pleaſe them well in all things, not anſwer<g ref="char:EOLhyphen"/>ing again. Not purloyning, but ſhewing all good fide<g ref="char:EOLhyphen"/>lity; that they may adorn the doctrine of God our Sa<g ref="char:EOLhyphen"/>viour in all things,</hi> ver. 9, 10. Then would Chri<g ref="char:EOLhyphen"/>ſtians in general remember their neceſſary Duties and Obligations ſignified in the verſe following, and elſewhere. <q rend="inline">For the grace of God, that bringeth ſalvation, hath appeared to all men, teaching us, that denying ungodlineſs, and worldly luſts, we ſhould live ſoberly, righteouſly, and godly in this preſent world, looking for that bleſſed hope, and the glorious appearing of the great God, and our Saviour Jeſus Chriſt, who gave himſelf for us, that he might redeem us from all iniquity, and purifie unto himſelf a peculiar people zealous of good works. Theſe things muſt we ſpeak, exhort; and preach both in our life and doctrine, <hi>ver.</hi> 7, 8.</q> As thus too, <hi>Muſt our Biſhops rebuke with all authority, and let no man deſpiſe them. verſe 15.</hi>
+               <pb n="22" facs="tcp:58924:13"/> And thus farther, <q rend="inline">Muſt they, and we, and all be, as we put others in mind to be, ſubject to Principalities and Powers, to obey Magiſtrates, whoſe Civil Authority, how great ſoever in Church-Matters, ſuppoſes the Spiritual Authority of the Church: and neither ſhould interfere with the other, <hi>&amp;c.</hi>
+               </q> See Biſhop <hi>Parker</hi>'s <hi>Religion and Loyalty,</hi> and <hi>Letter. Thus moreover ought we all to be ready to every good work, to ſpeak evil of no man, to be no brawlers, but gentle, ſhewing all meekneſs unto all men,</hi> Chap. iii. 1, 2. So finally thus is preſſed on the general Reformation, with theſe indiſpen<g ref="char:EOLhyphen"/>ſible Duties both of Clergy and Laity, (here briefly recommended) concluding all, <hi>verſe</hi> 3, 4, 5, 6, 7, 8. Wherein the Apoſtle exemplifies the ſtate of Unbelievers and Sinners before Converſion, and regeneration; and their bleſſed condition after through Sanctification, Juſtification, <hi>&amp;c. For we our ſelves alſo were ſometimes fooliſh, deceived, ſerving divers lusts and pleaſures, living in malice, and envy, hateful, and hating one another. But after that the kindneſs and love of God our Saviour toward man ap<g ref="char:EOLhyphen"/>peared, not by works of righteouſneſs which we have done, but according to his mercy he ſaved us, by the waſhing of regeneration, and renewing of the Holy Ghoſt, which he ſhed on us abundantly, through Jeſus Chriſt our Saviour: that being juſtified by his grace,
+<pb n="23" facs="tcp:58924:13"/> we ſhould be made heirs according to the hope of eternal life. This is a faithful ſaying, and theſe things</hi> (ſays St. <hi>Paul</hi> to his Biſhop) <hi>I will that thou affirm con<g ref="char:EOLhyphen"/>ſtantly, that they which have believed in God, might be careful to maintain good works: theſe things are good and profitable unto men.</hi>
+            </p>
+            <p>
+               <hi>Wherefore</hi> (As 'tis in <hi>Heb.</hi> xiii. 16, 17, 18.20, 21.) <hi>to do good, and to communicate forget not, for with ſuch ſacrifices God is well pleaſed.</hi>
+            </p>
+            <p>
+               <hi>Obey them that have the rule over you, and ſubmit your ſelves: for they watch for your ſouls, as they that muſt give account, that they may do it with joy, and not with grief: for that is unprofitable for you.</hi>
+            </p>
+            <p>
+               <hi>Pray for us: for we trust we have a good conſcience in all things, willing to live honeſtly.</hi>
+            </p>
+            <p>
+               <hi>Now the God of Peace, that brought again from the dead the Lord Jeſus, that great ſhepherd of the ſheep, through the blood of the everlaſting covenant, make you perfect in every good work, to do his will, working in you that which is well pleaſing in his ſight, through Jeſus Chriſt, to whom be glory for ever and ever.</hi> Amen.</p>
+         </div>
+         <div type="supplement">
+            <pb n="24" facs="tcp:58924:14"/>
+            <head>Supplemental Inſtances of ſome notorious Sins, very dangerous in Church and State: as to all Souls. Collected out of the brief Heads of Self-Examination, eſpecially before the Sacrament, in the <hi>Whole Duty of Man.</hi> With a Lamentation of the Church's Calamities.</head>
+            <p>IN the black Catalogue of Sins, or Tranſgreſſions of our reſpective Duties to God, our Neighbour, and our Selves, laid down by that incomparable Author from this his firſt excellent Treatiſe, that beſt of Books, next to the Inſpir'd:</p>
+            <p>Theſe following Sins of Omiſſion, and Commiſſion are particularly enumerated, <hi>viz.</hi>
+            </p>
+            <p n="1">1. Not believing in God, nor his Word Practically, ſo as to live according to our belief.</p>
+            <p n="2">2. Preſuming groundleſly on his Mercy, while we go on in wilful ſin.</p>
+            <p n="3">3. Not loving God for his own Excellencies; nor for his Goodneſs to us, not labouring to pleaſe him. Not
+<pb n="25" facs="tcp:58924:14"/> deſiring to draw near to him in his Holy Ordinances. Not longing to enjoy him in Heaven.</p>
+            <p n="4">4. Not fearing God, ſo as to keep from offending him. Fearing Man above him, by committing ſin, to ſhun ſome outward Suffering.</p>
+            <p n="5">5. Not truſting on God in Dangers, and Diſtreſſes. Uſing unlawful means to bring us out of them, <hi>&amp;c.</hi> Not looking up for his Bleſſing on our Honeſt Endeavours. Overcarking, <hi>&amp;c.</hi>
+            </p>
+            <p n="6">6. Not acknowledging his Wiſdom in chooſing for us, but having eager and impatient deſires of our own.</p>
+            <p n="7">7. Not honouring God by a reverent uſage of the things that relate to him. Behaving our Selves irreve<g ref="char:EOLhyphen"/>rently in his Houſe. Robbing God, by taking things that are Conſecrated to him. Prophaning Holy Times, the Lord's day, and the Feaſts, and Faſts of the Church. Placing Religion in hearing of Sermons, without Pra<g ref="char:EOLhyphen"/>ctice. Breaking our Vows made at Baptiſm. Prophaning the Lords Supper. Prophaning God's Name by Blaſ<g ref="char:EOLhyphen"/>phemous Thoughts and Diſcourſe. Giving others occa<g ref="char:EOLhyphen"/>ſion to blaſpheme him by our vile and wicked Lives. Taking unlawful Oaths. Perjury. Swearing in our Or<g ref="char:EOLhyphen"/>dinary Communication.</p>
+            <p n="8">8. Not Worſhipping God. Omitting Prayers publick and private. Not Praying in Purity, Faith, Humility, Attention, nor Reverence.</p>
+            <p n="9">
+               <pb n="26" facs="tcp:58924:15"/>9. Not Repenting, Faſting, Mortifying, nor ſolemnly Humbling, <hi>&amp;c.</hi>
+            </p>
+            <p n="10">10. Placing our Love, and other Affections more on Creatures, than the Creator, which is inward Idolatry.</p>
+            <p n="11">11. Unthankfulneſs to our Benefactors, eſpecially thoſe that admoniſh us. Not amending upon their re<g ref="char:EOLhyphen"/>proof. Being angry at them for it. Not Reverencing our Civil Parent, the lawful Magiſtrate. Deſpiſing our Spi<g ref="char:EOLhyphen"/>ritual Fathers, the Biſhops, and Paſtors of our Churches. Not loving them for their Works ſake. Not obeying thoſe Commands of God they deliver to us. Seeking, to with-hold from them their Juſt Maintenance. For<g ref="char:EOLhyphen"/>ſaking our lawful Paſtors to follow Factious Teachers. Not loving our Spiritual Brethren, <hi>i. e.</hi> our Fellow-Chri<g ref="char:EOLhyphen"/>ſtians. Having no Fellow-Feeling of their Sufferings. Cauſeleſly forſaking their Communion in Holy Duties. Not taking deeply to Heart the Deſolations of the Church: which are now Calamitous and deplorable indeed:</p>
+            <p n="12">12. Being puft up with high conceits of our ſelves. Carnal and Spiritual Pride, greedily ſeeking the praiſe of Men. Directing Chriſtian Actions, as Prayer, Alms, <hi>&amp;c.</hi> to that end. Committing Sins to avoid the reproach of wicked Men. Anger, Inconſideration, <hi>&amp;c.</hi> Uncon<g ref="char:EOLhyphen"/>tentedneſs in our Eſtates. Greedy deſires after Honour and Riches. Seeking to gain them by ſinful means. En<g ref="char:EOLhyphen"/>vying the condition of other Men. Not improving God's Gifts, outward, or inward, to his Honour. A<g ref="char:EOLhyphen"/>buſing our natural Parts, as Wit, Memory, <hi>&amp;c.</hi> to Sin. Neglecting or reſiſting the motions of God's Holy Spirit. Uncleaneſs. Intemperance. Pampering the Body, not ſubduing it, <hi>&amp;c.</hi>
+            </p>
+            <p n="13">
+               <pb n="27" facs="tcp:58924:15"/>13. Being Injurious, Unjuſt, Cruel, and Malicious to our Neighbour. Oppreſſing by Violence and Force, or colour of Law. Theft, Deceit, falſe Witneſs, Lying, Ingratitude. Want of true Love and Affection in Huſ<g ref="char:EOLhyphen"/>bands and Wives. Not bearing with the Infirmities of each other. So in Friends. Tyranny, or Remiſneſs in Parents, and Maſters. Diſobedience, and Stubborneſs in Children, and Servants. Ill-nature in all.</p>
+            <p n="14">14. Want of Bowels and Charity to our Neighbours. Not heartily deſiring their good Spiritual, or Tem<g ref="char:EOLhyphen"/>poral. Not loving and forgiving Enemies. Taking actual Revenges upon them. Profeſſing Kindneſs, and acting none. Backbiting, <hi>&amp;c.</hi>
+            </p>
+            <p n="15">15. Not loving Peace. Going to Law upon ſlight occaſions. Bearing inward Enmity to thoſe we Sue. Not labouring to make Peace among others.</p>
+            <p>Now let this ſhort diſmal Catalogue, which is all a plain Contradiction to our moſt Holy Chriſtian Profeſ<g ref="char:EOLhyphen"/>ſion, with thoſe Inſtances of Sins, and Contrarieties to God, and all True Religion, before-mentioned: be ſe<g ref="char:EOLhyphen"/>riouſly conſider'd, bewail'd, and reform'd in every guilty Soul: then ſhall we ſoon be happy in our publick and private State here; and more hereafter.</p>
+         </div>
+         <div type="lamentation">
+            <pb n="28" facs="tcp:58924:16"/>
+            <head>THE LAMENTATION, <hi>&amp;c.</hi>
+            </head>
+            <p>BUT alas! Since Chriſtendom continues the vileſt part of the World, a Sink of all thoſe abo<g ref="char:EOLhyphen"/>minable Pollutions, which even <hi>Barbarians</hi> deteſt. Since our Profeſſion, and our Practice are always at ſo wide a diſtance. Since the Diſciples of the Holy and Immaculate <hi>Jeſus,</hi> be of all others the moſt Prophane and Impure; and the Subjects of the Prince of Peace be of all others the moſt contentious and bloody. Since the Church in general is become an <hi>Aceldama,</hi> a Field of blood: and this particular true Catholick, Apoſtoli<g ref="char:EOLhyphen"/>cal, Epiſcopal Church, is ſo miſerably diſſected, ſo ſhamefully over-run with Blaſphemy, Sacrilege, Hy<g ref="char:EOLhyphen"/>pocriſie, Covetouſneſs, and all manner of Prophane, and beastly Licentiouſneſs, Uncharitableneſs, <hi>&amp;c.</hi> is ſo maliciouſly undermined every where, ſo cruelly oppreſſed, and inſultingly trampled upon in one place, and ſo fatally ſurrounded with Enemies on all Hands. Since her Sabbaths are Polluted; her Miniſtry Contemned;
+<pb n="29" facs="tcp:58924:16"/> her Sacred Ordinances Prophaned and Slighted; her Primitive Diſcipline Deſpis'd, <hi>&amp;c.</hi> by her own ſworn Members. Since many of theſe are conſtant boſome Foes, the moſt treacherous, and irreclaimable, ſenſual, and worldly; making no Conſcience of religious Concerns and Duties; much leſs of Defaming, Injuring, or De<g ref="char:EOLhyphen"/>frauding their own lawful Paſtors, eſpecially the In<g ref="char:EOLhyphen"/>ferior and moſt Laborious. As if they had neither Di<g ref="char:EOLhyphen"/>vine nor Humane Right to their moſt reaſonable Dues. As if neither Chriſt, nor his Apostles had given any Orders about the Reception, Reverend Eſtimation, and Maintenance of his Miniſters; <hi>Matth. x. 1 Cor. iv. 1.</hi> and <hi>cap. ix. 7. 11.14. Heb. vii. to 10.</hi> As if Chri<g ref="char:EOLhyphen"/>ſtians were herein allowed to be worſe than either <hi>Jews,</hi> or Heathens. As if Sacrilege were no Sin. As if the Curſe of God did not attend it, <hi>&amp;c.</hi> though he curſed a whole Nation for the ſame. <hi>Mal. iii. 8, 9.</hi> Since Chriſtianity the beſt and pureſt Religion in the World is thus notoriouſly and uncontroulably ſcandalized, even by the very Devote's, and boaſting Profeſſors. Since Matters are at this dreadful paſs among us, un<g ref="char:EOLhyphen"/>der the beſt eſtabliſhment too: What alas! Can become of us? What Judgments may we not juſtly hear? What ſad Calamities expect under ſuch an univerſal decay of Chriſtian Piety, and all true Vertue, and good Na<g ref="char:EOLhyphen"/>ture? Yet ſhall we not mourn for <hi>Sion?</hi> And pray for the Peace of <hi>Jeruſalem?</hi> This ſeems to be all, left us
+<pb n="30" facs="tcp:58924:17"/> to do. O then let the Prieſts, the Miniſters of the Lord, herein unite at leaſt, and weep between the Porch and the Altar; and cry, ſpare thy People, O Lord, and give not thine Heritage to reproach. O Save, Cleanſe, Enlarge, and Defend thy Church good God. In all time of our Tribulation, in all time of our Wealth, in the hour of Death, and in the day of Judgment. Good Lord deliver us. <hi>Amen.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:58924:17"/>
+         </div>
+      </body>
+   </text>
+</TEI>
